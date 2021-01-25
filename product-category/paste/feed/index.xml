@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paste &#8211; La Casa</title>
+	<atom:link href="/https://cosa21.github.io/LaCasa/product-category/paste/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://cosa21.github.io/LaCasa</link>
+	<description>Hedonizam nam je prioritet</description>
+	<lastBuildDate>Mon, 08 Jun 2020 11:54:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Paste</title>
+		<link>?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=paste</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 11:54:18 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Prikaz dostupnih pasta sa slikama i cenama Showing all 3 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Bolognese &#1088;&#1089;&#1076;450.00 Add to cart Carbonara &#1088;&#1089;&#1076;450.00 Add to cart Pesto genovese &#1088;&#1089;&#1076;500.00 Add to cart]]></description>
+										<content:encoded><![CDATA[<div class="term-description"><p>Prikaz dostupnih pasta sa slikama i cenama</p>
+</div><div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 3 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-83 status-publish first instock product_cat-paste has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/bolognese/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/eiliv-sonas-aceron-JDEEsQKEm7I-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/eiliv-sonas-aceron-JDEEsQKEm7I-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/eiliv-sonas-aceron-JDEEsQKEm7I-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/eiliv-sonas-aceron-JDEEsQKEm7I-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Bolognese</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>450.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/bolognese/?add-to-cart=83" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="83" data-product_sku="" aria-label="Add &ldquo;Bolognese&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-82 status-publish instock product_cat-paste has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/carbonara/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/olayinka-babalola-r01ZopTiEV8-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/olayinka-babalola-r01ZopTiEV8-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/olayinka-babalola-r01ZopTiEV8-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/olayinka-babalola-r01ZopTiEV8-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Carbonara</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>450.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/carbonara/?add-to-cart=82" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="82" data-product_sku="10" aria-label="Add &ldquo;Carbonara&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-84 status-publish instock product_cat-paste has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/pesto-genovese/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/natalia-y-ljVSRqHCP2U-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/natalia-y-ljVSRqHCP2U-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/natalia-y-ljVSRqHCP2U-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/natalia-y-ljVSRqHCP2U-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Pesto genovese</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>500.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/pesto-genovese/?add-to-cart=84" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="84" data-product_sku="" aria-label="Add &ldquo;Pesto genovese&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

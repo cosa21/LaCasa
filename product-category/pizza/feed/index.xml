@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pizza &#8211; La Casa</title>
+	<atom:link href="/https://cosa21.github.io/LaCasa/product-category/pizza/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://cosa21.github.io/LaCasa</link>
+	<description>Hedonizam nam je prioritet</description>
+	<lastBuildDate>Mon, 08 Jun 2020 11:54:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Pizza</title>
+		<link>?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pizza</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 11:54:18 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Prikaz dostupnih pica sa slikama i cenama Showing all 3 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Capricciosa &#1088;&#1089;&#1076;550.00 Add to cart Margherita &#1088;&#1089;&#1076;550.00 Add to cart Piccante &#1088;&#1089;&#1076;590.00 Add to cart]]></description>
+										<content:encoded><![CDATA[<div class="term-description"><p>Prikaz dostupnih pica sa slikama i cenama</p>
+</div><div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 3 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-88 status-publish first instock product_cat-pizza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/capricciosa/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/rahul-upadhyay-yDKHJxfiWDk-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/rahul-upadhyay-yDKHJxfiWDk-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/rahul-upadhyay-yDKHJxfiWDk-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/rahul-upadhyay-yDKHJxfiWDk-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Capricciosa</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>550.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/capricciosa/?add-to-cart=88" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="88" data-product_sku="" aria-label="Add &ldquo;Capricciosa&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-89 status-publish instock product_cat-pizza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/margherita/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Margherita</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>550.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/margherita/?add-to-cart=89" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="89" data-product_sku="" aria-label="Add &ldquo;Margherita&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-90 status-publish instock product_cat-pizza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/piccante/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/alan-hardman-SU1LFoeEUkk-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/alan-hardman-SU1LFoeEUkk-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/alan-hardman-SU1LFoeEUkk-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/alan-hardman-SU1LFoeEUkk-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Piccante</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>590.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/piccante/?add-to-cart=90" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="90" data-product_sku="" aria-label="Add &ldquo;Piccante&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Burger &#8211; La Casa</title>
+	<atom:link href="/https://cosa21.github.io/LaCasa/product-category/burger/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://cosa21.github.io/LaCasa</link>
+	<description>Hedonizam nam je prioritet</description>
+	<lastBuildDate>Mon, 08 Jun 2020 11:54:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Burger</title>
+		<link>?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=burger</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 11:54:18 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Prikaz dostupnih burgera sa slikama i cenama Showing all 3 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Double Cheeseburger &#1088;&#1089;&#1076;590.00 Add to cart Hamburger &#1088;&#1089;&#1076;490.00 Add to cart Local Bro &#1088;&#1089;&#1076;530.00 Add to cart]]></description>
+										<content:encoded><![CDATA[<div class="term-description"><p>Prikaz dostupnih burgera sa slikama i cenama</p>
+</div><div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 3 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-91 status-publish first instock product_cat-burger has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/double-cheeseburger/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/amirali-mirhashemian-b6bYaFOPfmI-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/amirali-mirhashemian-b6bYaFOPfmI-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/amirali-mirhashemian-b6bYaFOPfmI-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/amirali-mirhashemian-b6bYaFOPfmI-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Double Cheeseburger</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>590.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/double-cheeseburger/?add-to-cart=91" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="91" data-product_sku="" aria-label="Add &ldquo;Double Cheeseburger&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-92 status-publish instock product_cat-burger has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/hamburger/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/ilya-mashkov-_qxbJUr9RqI-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/ilya-mashkov-_qxbJUr9RqI-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/ilya-mashkov-_qxbJUr9RqI-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/ilya-mashkov-_qxbJUr9RqI-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Hamburger</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>490.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/hamburger/?add-to-cart=92" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="92" data-product_sku="" aria-label="Add &ldquo;Hamburger&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-93 status-publish instock product_cat-burger has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/https://cosa21.github.io/LaCasa/product/local-bro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/erik-odiin-F_xGk7V0Xbc-unsplash-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="/https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/erik-odiin-F_xGk7V0Xbc-unsplash-scaled-300x300.jpg 300w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/erik-odiin-F_xGk7V0Xbc-unsplash-scaled-100x100.jpg 100w, /https://cosa21.github.io/LaCasa/wp-content/uploads/2020/06/erik-odiin-F_xGk7V0Xbc-unsplash-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Local Bro</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#1088;&#1089;&#1076;</span>530.00</span></span>
+</a><a href="/https://cosa21.github.io/LaCasa/product/local-bro/?add-to-cart=93" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="93" data-product_sku="" aria-label="Add &ldquo;Local Bro&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
